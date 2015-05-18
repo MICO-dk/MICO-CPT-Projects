@@ -1,0 +1,85 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: mico-cpt-projects\n"
+"POT-Creation-Date: 2015-05-18 18:07+0100\n"
+"PO-Revision-Date: 2015-05-18 18:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c;_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../mico-cpt-projects.php:116
+msgctxt "post type general name"
+msgid "Projects"
+msgstr "Projekter"
+
+#: ../mico-cpt-projects.php:117
+msgctxt "post type singular name"
+msgid "Project"
+msgstr "Projekt"
+
+#: ../mico-cpt-projects.php:118
+msgctxt "admin menu"
+msgid "Projects"
+msgstr "Projekter"
+
+#: ../mico-cpt-projects.php:119
+msgctxt "add new on admin bar"
+msgid "Project"
+msgstr "Projekt"
+
+#: ../mico-cpt-projects.php:120
+msgctxt "Project"
+msgid "Add New"
+msgstr "Tilføj Ny"
+
+#: ../mico-cpt-projects.php:121
+msgid "Add New Project"
+msgstr "Tilføj Nyt Projekt"
+
+#: ../mico-cpt-projects.php:122
+msgid "New Project"
+msgstr "Nyt Projekt"
+
+#: ../mico-cpt-projects.php:123
+msgid "Edit Project"
+msgstr "Rediger Projekt"
+
+#: ../mico-cpt-projects.php:124
+msgid "View Project"
+msgstr "Se Projekt"
+
+#: ../mico-cpt-projects.php:125
+msgid "All Projects"
+msgstr "Alle Projekter"
+
+#: ../mico-cpt-projects.php:126
+msgid "Search Projects"
+msgstr "Søg Projekter"
+
+#: ../mico-cpt-projects.php:127
+msgid "Parent Project:"
+msgstr "Forælder Projekt:"
+
+#: ../mico-cpt-projects.php:128
+msgid "No Projects found."
+msgstr "Ingen Projekter fundet."
+
+#: ../mico-cpt-projects.php:129
+msgid "No Projects found in trash."
+msgstr "Ingen Projekter fundet i papirkurven."
+
+#: ../mico-cpt-projects.php:139
+msgctxt "URL slug"
+msgid "project"
+msgstr "projekt"
